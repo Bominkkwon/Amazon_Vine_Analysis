@@ -16,7 +16,9 @@ Amazon Vine Analysis
 
 ## Technologies
 [Google Colab Notebook](https://colab.research.google.com/)
+
 [pgAdmin 4](https://www.pgadmin.org/download/)
+
 [AWS](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
 
 ## Overview 
